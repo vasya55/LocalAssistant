@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Local Assistant</string>
+    <string name="accessibility_service_description">
+        Позволяет ассистенту читать содержимое экрана и выполнять нажатия
+        по вашей голосовой команде. Вся обработка происходит локально на устройстве,
+        без передачи данных куда-либо.
+    </string>
+</resources>
